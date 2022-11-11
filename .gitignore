@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore Papers for copyright issues
+Papers
+
+# Ignore env
+env
