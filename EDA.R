@@ -86,3 +86,4 @@ candlestick_index <- function(index_name) {
 }
 
 candlestick_index('NIFTY 100')
+
